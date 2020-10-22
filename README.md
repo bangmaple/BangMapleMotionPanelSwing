@@ -9,4 +9,4 @@ __How to use?__
 *- This class is intended to replace the traditional javax.swing.JPanel class*
 
 ---------
-- Extremely useful when to use the code **JFrame.setUndecorated(false);**
+- Extremely useful when you are going to use the code **JFrame.setUndecorated(false);**
